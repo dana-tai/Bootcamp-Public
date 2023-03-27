@@ -1,0 +1,30 @@
+.box {
+    border-style: solid;
+    padding: 15px;
+    font-family: sans-serif;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.like {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.like-btn {
+    background-color: gold;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+}
